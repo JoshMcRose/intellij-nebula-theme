@@ -481,11 +481,11 @@
             "Checkbox.Border.Default.Dark": "#c874b24D",
             "Checkbox.Border.Selected.Dark": "#c874b24D",
             "Checkbox.Border.Disabled.Dark": "#c874b21A",
-            "Checkbox.Background.Default.Dark": "#1b2617",
-            "Checkbox.Background.Disabled.Dark": "#1b261780",
-            "Checkbox.Focus.Wide.Dark": "#c874b21A",
-            "Checkbox.Focus.Thin.Selected.Dark": "#c874b21A",
-            "Checkbox.Focus.Thin.Default.Dark": "#c874b21A"
+            "Checkbox.Background.Default.Dark": "#1A0D1B",
+            "Checkbox.Background.Disabled.Dark": "#1A0D1B4D",
+            "Checkbox.Focus.Wide.Dark": "#c874b288",
+            "Checkbox.Focus.Thin.Selected.Dark": "#c874b288",
+            "Checkbox.Focus.Thin.Default.Dark": "#c874b288"
         }
     }
 }
