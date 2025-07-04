@@ -12,7 +12,7 @@
     <option name="CARET_ROW_COLOR" value="6B3A5A" />
     <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
     <option name="DELETED_LINES_COLOR" value="4D2A2A" />
-    <option name="DOCUMENTATION_COLOR" value="000000" />
+    <option name="DOCUMENTATION_COLOR" value="1A0D1B66" />
     <option name="DOC_COMMENT_GUIDE" value="C874B2" />
     <option name="DOC_COMMENT_LINK" value="B894D1" />
     <option name="FILESTATUS_ADDED" value="B7D167" />
@@ -42,10 +42,10 @@
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="4D2A2A" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="2A3A4D" />
     <option name="INDENT_GUIDE" value="1E1E1E" />
-    <option name="INFORMATION_HINT" value="000000" />
+    <option name="INFORMATION_HINT" value="1A0D1B66" />
     <option name="LINE_NUMBERS_COLOR" value="404040" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="E6E1E5" />
-    <option name="LOOKUP_COLOR" value="000000" />
+    <option name="LOOKUP_COLOR" value="1A0D1B66" />
     <option name="MODIFIED_LINES_COLOR" value="2A3A4D" />
     <option name="NOTIFICATION_BACKGROUND" value="4A1D3A" />
     <option name="PROMOTION_PANE" value="1E1E1E" />
@@ -81,7 +81,7 @@
     <option name="TAB_UNDERLINE" value="C874B2" />
     <option name="TAB_UNDERLINE_INACTIVE" value="4A1D3A" />
     <option name="TEARLINE_COLOR" value="1E1E1E" />
-    <option name="TOOLTIP" value="000000" />
+    <option name="TOOLTIP" value="1A0D1B66" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="000000" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="101010" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="202020" />
