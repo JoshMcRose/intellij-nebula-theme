@@ -199,7 +199,7 @@
         "Editor.background": "background1",
         "Editor.shortcutForeground": "custom1",
 
-        "EditorTabs.background": "background3",
+        "EditorTabs.background": "background1",
         "EditorTabs.inactiveUnderlineColor": "custom2",
         "EditorTabs.underlineColor": "custom1",
         "EditorTabs.underlineHeight": 2,
@@ -444,14 +444,14 @@
     },
 
     "background": {
-        "image": "/nebula.png",
+        "image": "nebula.png",
         "transparency": 24,
         "fill": "scale",
         "anchor": "center"
     },
 
     "emptyFrameBackground": {
-        "image": "/nebula.png",
+        "image": "nebula.png",
         "transparency": 24,
         "fill": "scale",
         "anchor": "center"
