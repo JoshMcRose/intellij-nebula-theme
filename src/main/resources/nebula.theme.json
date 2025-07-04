@@ -34,7 +34,7 @@
         "foregroundAlt4": "#e8a8d8",
 
         "background1": "#1A0D1B",
-        "background1Alpha": "#1A0D1B4D",
+        "background1Alpha": "#1A0D1B66",
         "background2": "#3D29404D",
         "background3": "#342D34",
         "backgroundAlt": "#4A1D3A",
@@ -107,7 +107,7 @@
         "Menu.disabledForeground": "#436970",
         "MenuItem.acceleratorForeground": "#4c7880",
         "OptionPane.messageForeground": "#4c7880",
-        "PopupMenu.translucentBackground": "#50535B",
+        "PopupMenu.translucentBackground": "#00000000",
         "RadioButton.disabledText": "#436970",
         "RadioButtonMenuItem.acceleratorSelectionForeground": "#43464C",
         "RadioButtonMenuItem.disabledForeground": "#436970",
@@ -226,11 +226,13 @@
 
         "List.background": "background1",
 
-        "Menu.background": "background1",
+        "Menu.background": "background1Alpha",
         "Menu.borderColor": "border2",
         "Menu.selectionBackground": "selectionBackgroundAlt1",
 
         "MenuItem.disabledForeground": "#abb2bf80",
+        "MenuItem.background": "background1Alpha",
+        "MenuItem.selectionBackground": "background1Alpha",
 
         "Notification.ToolWindow.errorBackground": "background1",
         "Notification.ToolWindow.errorBorderColor": "#ff5554",
@@ -291,7 +293,7 @@
         "Popup.inactiveBorderColor": "borderColor",
         "Popup.paintBorder": true,
 
-        "PopupMenu.background": "background1",
+        "PopupMenu.background": "background1Alpha",
 
         "ProgressBar.failedColor": "error",
         "ProgressBar.failedEndColor": "error",
