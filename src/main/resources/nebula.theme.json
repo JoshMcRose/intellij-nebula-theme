@@ -61,6 +61,8 @@
         "borderColor": "#1e1e1e",
         "separatorColor": "#4a1d3a",
 
+        "textForeground": "#7F9AB3",
+
         "custom1": "#c874b2",
         "custom2": "#4a1d3a",
 
@@ -80,7 +82,7 @@
     "ui": {
         "*": {
             "arc": "7",
-            "foreground": "#7F9AB3",
+            "foreground": "textForeground",
             "background": "background1",
             "infoForeground": "border3",
             "selectionForeground": "foregroundBright1",
@@ -140,23 +142,23 @@
         "Borders.ContrastBorderColor": "borderColor",
         "Borders.color": "borderColor",
 
-        "Button.default.endBackground": "#6c6f9330",
+        "Button.default.endBackground": "background1",
         "Button.default.endBorderColor": "selectionBackground",
-        "Button.default.focusColor": "#6c6f931a",
-        "Button.default.focusedBorderColor": "#6c6f931a",
-        "Button.default.foreground": "#7F9AB3",
+        "Button.default.focusColor": "hoverBackground",
+        "Button.default.focusedBorderColor": "foregroundBright1",
+        "Button.default.foreground": "textForeground",
         "Button.default.shadowColor": "#00000000",
-        "Button.default.startBackground": "#6c6f9330",
+        "Button.default.startBackground": "backgroundAlt",
         "Button.default.startBorderColor": "selectionBackground",
         "Button.disabledBorderColor": "selectionBackground",
         "Button.disabledText": "#abb2bf4d",
         "Button.endBackground": "background1",
         "Button.endBorderColor": "selectionBackground",
-        "Button.focusedBorderColor": "#6c6f931a",
-        "Button.foreground": "#7F9AB3",
+        "Button.focusedBorderColor": "foregroundBright1",
+        "Button.foreground": "textForeground",
         "Button.shadowColor": "#00000000",
-        "Button.startBackground": "background1",
-        "Button.startBorderColor": "selectionBackground",
+        "Button.startBackground": "backgroundAlt",
+        "Button.startBorderColor": "selectionBackgroundAlt",
 
         "CheckBoxMenuItem.acceleratorSelectionForeground": "foregroundAlt3",
 
