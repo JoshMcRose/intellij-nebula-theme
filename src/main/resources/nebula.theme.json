@@ -133,11 +133,12 @@
         "RunWidget.runningBackground": "#30533D",
         "RunWidget.stopBackground": "#7B3131",
 
-
         "ActionButton.hoverBackground": "hoverBackground",
         "ActionButton.hoverBorderColor": "hoverBackground",
         "ActionButton.pressedBackground": "hoverBackground",
         "ActionButton.pressedBorderColor": "hoverBackground",
+
+        "BigSpinner.background": "background1",
 
         "Borders.ContrastBorderColor": "borderColor",
         "Borders.color": "borderColor",
