@@ -78,7 +78,7 @@
     <option name="ScrollBar.hoverThumbColor" value="B7D16730" />
     <option name="ScrollBar.thumbBorderColor" value="B7D16710" />
     <option name="ScrollBar.thumbColor" value="B7D16725" />
-    <option name="STICK_LINE_BACKGROUND" value="1A0D1B" />
+    <option name="STICKY_LINES_BACKGROUND" value="1A0D1B" />
     <option name="TAB_UNDERLINE" value="C874B2" />
     <option name="TAB_UNDERLINE_INACTIVE" value="4A1D3A" />
     <option name="TEARLINE_COLOR" value="1E1E1E" />
@@ -640,8 +640,8 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="404040" />
-        <option name="EFFECT_COLOR" value="404040" />
+        <option name="FOREGROUND" value="006C5A" />
+        <option name="EFFECT_COLOR" value="006C5A" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -2443,7 +2443,7 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="404040" />
+        <option name="FOREGROUND" value="006C5A" />
         <option name="EFFECT_COLOR" value="cf6679" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2495,7 +2495,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="404040" />
+        <option name="FOREGROUND" value="006C5A" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
