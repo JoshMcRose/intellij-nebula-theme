@@ -4,14 +4,14 @@
     <property name="ideVersion">2025.1.3.0.0</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="6B3A5A" />
+    <option name="ADDED_LINES_COLOR" value="8C2268" />
     <option name="ANNOTATIONS_COLOR" value="C874B2" />
     <option name="ActionButton.hoverBackground" value="B7D1674D" />
     <option name="ActionButton.pressedBackground" value="B7D16780" />
     <option name="CARET_COLOR" value="E8A8D8" />
-    <option name="CARET_ROW_COLOR" value="6B3A5A" />
+    <option name="CARET_ROW_COLOR" value="4A1D3A" />
     <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
-    <option name="DELETED_LINES_COLOR" value="4D2A2A" />
+    <option name="DELETED_LINES_COLOR" value="EA1730" />
     <option name="DOCUMENTATION_COLOR" value="1A0D1B" />
     <option name="DOC_COMMENT_GUIDE" value="C874B2" />
     <option name="DOC_COMMENT_LINK" value="B894D1" />
@@ -38,22 +38,22 @@
     <option name="FILESTATUS_modifiedOutside" value="BCECE2" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="3D2940" />
     <option name="GUTTER_BACKGROUND" value="1B1C17" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="6B3A5A" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="4D2A2A" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="2A3A4D" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="8C2268" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="EA1730" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="7106B0" />
     <option name="INDENT_GUIDE" value="1E1E1E" />
     <option name="INFORMATION_HINT" value="1A0D1B66" />
     <option name="LINE_NUMBERS_COLOR" value="404040" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="E6E1E5" />
     <option name="LOOKUP_COLOR" value="1A0D1B66" />
-    <option name="MODIFIED_LINES_COLOR" value="2A3A4D" />
+    <option name="MODIFIED_LINES_COLOR" value="7106B0" />
     <option name="NOTIFICATION_BACKGROUND" value="4A1D3A" />
     <option name="PROMOTION_PANE" value="1E1E1E" />
     <option name="QUESTION_HINT" value="000000" />
     <option name="RIGHT_MARGIN_COLOR" value="4A1D3A" />
     <option name="SELECTED_INDENT_GUIDE" value="6B3A5A" />
     <option name="SELECTED_TEARLINE_COLOR" value="6B3A5A" />
-    <option name="SELECTION_BACKGROUND" value="4A1D3A" />
+    <option name="SELECTION_BACKGROUND" value="5B013B" />
     <option name="SEPARATOR_ABOVE_COLOR" value="46483C" />
     <option name="SEPARATOR_BELOW_COLOR" value="46483C" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="B7D1671A" />
@@ -78,6 +78,7 @@
     <option name="ScrollBar.hoverThumbColor" value="B7D16730" />
     <option name="ScrollBar.thumbBorderColor" value="B7D16710" />
     <option name="ScrollBar.thumbColor" value="B7D16725" />
+    <option name="STICK_LINE_BACKGROUND" value="1A0D1B" />
     <option name="TAB_UNDERLINE" value="C874B2" />
     <option name="TAB_UNDERLINE_INACTIVE" value="4A1D3A" />
     <option name="TEARLINE_COLOR" value="1E1E1E" />
